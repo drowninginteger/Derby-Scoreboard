@@ -1,0 +1,1 @@
+{"/Applications/MAMP/htdocs/side/scoreboard/gulpfile.js":{"sha1":"0932a679816b82e2868bfa849099a034eaa77f68","tasks":{"theme:css":{"name":"theme:css","dependencies":""},"watch":{"name":"watch","dependencies":""},"default":{"name":"default","dependencies":"watch"}}}}
