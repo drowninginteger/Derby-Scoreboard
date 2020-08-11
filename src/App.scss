@@ -1,0 +1,31 @@
+
+@import 'scss_includes/normalize';
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  padding: 20px;
+}
+
+button,
+.btn {
+  border: 0;
+  border-radius: 3px;
+  background-color: #0e61dc;
+  color: #fff;
+  font-size: 20px;
+  padding: 4px 12px;
+
+  &:hover {
+    background-color: darken(#0e61dc, 15%);
+  }
+}
+
+#app {
+  .team {
+    .current-score {
+      font-size: 84px;
+      display: inline-block;
+    }
+  }
+}
